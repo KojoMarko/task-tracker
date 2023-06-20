@@ -1,3 +1,8 @@
+![image](https://github.com/KojoMarko/task-tracker/assets/52793199/646e339f-3043-4861-9610-4f4ad07f37c3)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
